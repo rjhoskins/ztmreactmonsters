@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ztmreactmonsters/static/css/main.c8082f50.chunk.css",
+    "main.js": "/ztmreactmonsters/static/js/main.bb546962.chunk.js",
+    "main.js.map": "/ztmreactmonsters/static/js/main.bb546962.chunk.js.map",
+    "runtime-main.js": "/ztmreactmonsters/static/js/runtime-main.5e731e56.js",
+    "runtime-main.js.map": "/ztmreactmonsters/static/js/runtime-main.5e731e56.js.map",
+    "static/js/2.b4309f00.chunk.js": "/ztmreactmonsters/static/js/2.b4309f00.chunk.js",
+    "static/js/2.b4309f00.chunk.js.map": "/ztmreactmonsters/static/js/2.b4309f00.chunk.js.map",
+    "index.html": "/ztmreactmonsters/index.html",
+    "precache-manifest.e687a6722c76689895d64aac4e46d121.js": "/ztmreactmonsters/precache-manifest.e687a6722c76689895d64aac4e46d121.js",
+    "service-worker.js": "/ztmreactmonsters/service-worker.js",
+    "static/css/main.c8082f50.chunk.css.map": "/ztmreactmonsters/static/css/main.c8082f50.chunk.css.map",
+    "static/js/2.b4309f00.chunk.js.LICENSE.txt": "/ztmreactmonsters/static/js/2.b4309f00.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e731e56.js",
+    "static/js/2.b4309f00.chunk.js",
+    "static/css/main.c8082f50.chunk.css",
+    "static/js/main.bb546962.chunk.js"
+  ]
+}
